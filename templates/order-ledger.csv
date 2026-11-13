@@ -1,0 +1,1 @@
+order_date,merchant,order_reference,currency,item,quantity,unit_price,modifier_total,item_subtotal,tax,delivery_fee,service_fee,other_fees,tip,discount,credit,refund,receipt_total,source,verification,notes
